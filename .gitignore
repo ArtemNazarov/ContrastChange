@@ -1,0 +1,7 @@
+/Debug/*
+x64/Debug/*
+.vs/*
+ContrastChangeCUDA/x64/Debug/*
+ContrastChangeCUDA/Debug/*
+ContrastChange/x64/Debug/*
+ContrastChange/Debug/*

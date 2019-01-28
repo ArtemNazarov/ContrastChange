@@ -1,0 +1,7 @@
+LIBRARY
+EXPORTS
+equalizeHistogram @1 ;equalizeHistogram
+equalizeHistogram=equalizeHistogram
+linearContrasting @2 ;linearContrasting
+linearContrasting=linearContrasting
+	
